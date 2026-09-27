@@ -1,0 +1,7 @@
+Actual Unity Play Mode render: ImpossibleGarden_Mochi
+960x540, 24 fps, 576 frames.
+Seed 20260930; synthetic Newton/BPM/GSR packets passed through BLEController. Trigger events=6.
+Three scripted adaptation targets applied through AdaptivePresentation. No DQN inference or training. No Firebase client.
+Audio sample rate=48000; channels=2; samples=2304000; peak=0.03209822.
+Runtime errors=0.
+Camera=PLAYER_VIEW_REFERENCE. Scene assets not saved.

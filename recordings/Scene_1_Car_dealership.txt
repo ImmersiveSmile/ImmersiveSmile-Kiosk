@@ -1,0 +1,7 @@
+Actual Unity Play Mode render: Scene_1_Car_dealership
+960x540, 24 fps, 576 frames.
+Seed 20260939; synthetic Newton/BPM/GSR packets passed through BLEController. Trigger events=6.
+Three scripted adaptation targets applied through AdaptivePresentation. No DQN inference or training. No Firebase client.
+Audio sample rate=48000; channels=2; samples=2304000; peak=0.2702696.
+Runtime errors=0.
+Camera=Main Camera. Scene assets not saved.
