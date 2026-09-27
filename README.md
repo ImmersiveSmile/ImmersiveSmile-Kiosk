@@ -12,7 +12,11 @@ Open http://127.0.0.1:5173. No installation or frontend build is required. Lands
 
 ## Experience
 
-Welcome → catalogue → recorded preview → local demonstration or remote session → end screen. The catalogue contains all 16 playable scene IDs from SceneSelector; the technical MainScene lobby (0) is deliberately excluded from visitor choices. Garden variants have distinct IDs. Search, content filters, provisional audience filters, fullscreen, keyboard focus, reduced-motion support and a three-minute idle return are included. Active sessions never idle-reset.
+The kiosk opens directly on a four-card world gallery. Tap a world to see an automatic silent preview; tap Start to begin. No welcome gate or search keyboard is needed. Nature, magic and adventure filters help visitors browse, with clear Previous/More controls. The Start action stays visible at the bottom of the preview screen, including on phones.
+
+All 16 scene IDs remain available as 12 world cards: Garden's four versions and Valley's two versions are grouped inside their preview screens. The exact selected variant is sent to the backend. MainScene (0) remains the technical lobby. Next world lets visitors compare previews without returning to the gallery. Age guidance, staff setup and preview sound are secondary controls. Motion-sensitive visitors' reduced-motion preference disables automatic preview playback and decorative transitions. Active sessions never idle-reset; other screens return to the first gallery page after three minutes.
+
+The session screen keeps the recording, status and End action; the unavailable interaction meter has been removed. Space Island's empty scene remains previewable but cannot be started from the visitor screen.
 
 Only one video element is created at a time. The kiosk uses ordinary muted, looping video playback; it never renders the Unity scene or streams the headset. Preview pause affects only the video. Scene recordings cannot represent live interaction/adaptation, and are explicitly labelled prerecorded.
 
